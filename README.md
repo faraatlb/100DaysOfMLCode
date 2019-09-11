@@ -9,7 +9,7 @@ I have completed 3 weeks of this course.
 **Thoughts** : It was really easy although I have become surprised because I didn't know some primary techniques!
 
 
-**Link of Work:**   [Commit](https://courses.edx.org/courses/course-v1:UCSanDiegoX+DSE200x+3T2019/course/)
+**Link of Work:**   [Python for Data Science!](https://courses.edx.org/courses/course-v1:UCSanDiegoX+DSE200x+3T2019/course/)
 
 
 
