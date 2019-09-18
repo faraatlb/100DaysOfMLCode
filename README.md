@@ -24,4 +24,18 @@ I have completed 3 weeks of this course.
 
 
 
+## Day 3 : Sep 18 , 2019
+
+**Today's Progress** : I've started the course of "How to Win a Data Science Competition: Learn from Top Kagglers" in coursera.org. I have watched the first week of this course.
+
+**Thoughts** : Review of some previous knowledge. 
+
+**New Topics that I learned** :t-sne
+
+**Link of Work:**   [How to Win a Data Science Competition: Learn from Top Kagglers](https://www.coursera.org/learn/competitive-data-science/home/welcome)
+
+
+
+
+
 
